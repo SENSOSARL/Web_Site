@@ -1,0 +1,18 @@
+header {
+  padding-top: 5px;
+}
+ body {
+  background-color: lightgreen;
+  text-align: center;
+}
+.row{
+	margin:10px;
+}
+img{
+	padding: 15px;
+	width: 60%;
+}
+aside{
+	padding: 10px;
+	text-align: 5px;
+}
